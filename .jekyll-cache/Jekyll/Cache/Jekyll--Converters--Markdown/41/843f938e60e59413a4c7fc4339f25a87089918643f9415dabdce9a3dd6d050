@@ -1,0 +1,84 @@
+I"4<h2 id="welcome">Welcome!</h2>
+<p>Hey everyone! My name is Ivy Z, and this is Zhang Limit Exceeded, a clever
+play on words and also the name of the blog. This blog serves the dual purpose
+of self documenting my goal of hitting 2000 on CodeForces in 1 year whilst
+hopefully teaching people along the way. For this first post, I’ll be sharing
+some advice I got from some of the best along with my current training regiment.</p>
+
+<h2 id="advice-from-the-greats">Advice From The Greats</h2>
+<p>Before tackling this challenge, I contacted some top players for tips on how to
+go about practicing and here’s what they had to say. (Don’t worry, I didn’t just
+ask the typical “how to cp better, plz help” sort of questions)</p>
+
+<ol>
+  <li>What single factor helped you push through common rating plateaus (1400,
+1900, etc.) when you were starting out?</li>
+  <li>What myth or misconception about improving in CP do you think is most
+damaging?</li>
+  <li>If you were to go back and start your CP journey all over again, what are the
+top two things you would change about the way you practiced or your routines?</li>
+</ol>
+
+<p>The common theme when looking at the answers isn’t too surprising: practice.
+One response I got was even:</p>
+
+<blockquote>
+  <p>Practice, there’s more than practice, not practicing enough.</p>
+</blockquote>
+
+<p>But I’d argue like the majority of masters that there’s more than just
+practice. It takes <strong>deliberate, targetted</strong> practice to truly improve. That
+means not only being fully focused while practicing but also maintaining a fine
+balance between practice with what you struggle with and solving random problems
+to get better at recognition. So if you struggle with dynamic programming, go
+ahead and study it, but make sure you don’t only study that one topic.</p>
+
+<h2 id="training-regiment">Training Regiment</h2>
+<p>I’ve done a lot of research before jumping into this challenge so here is a
+quick run down on my routine. If you’d like to see some sources I used, the
+links will be at the bottom of the section. Although I haven’t done any live
+contests as they’re usually at 5 am or during school, I’d put a rough estimate
+of my rating as 1400CF with about 50 deviation. The main two sites I’m using to
+practice are AtCoder and CodeForces. On AtCoder I do the ABC contests, problems
+B-D in 6 problem ones and B-C in the older 4 problem contests. The pros of
+AtCoder are the high quality questions and an easily navagatible website to
+track your progress <a href="https://kenkoooo.com/atcoder#/table/">here</a>; whereas, the
+cons would be the lack of English editorials for a majority of contests and
+problems not having tags. These are negligible if you are part of a CP community
+where you can find stronger programmers to help you when you’re stuck so don’t
+worry too much. For CodeForces, I use the ladders on <a href="https://a2oj.com/">a2oj</a>
+to find keystone problems I’ll need to understand to move into the next 100
+rating bracket. These are often classic problems in areas like dp or graphs and
+help introduce you to new concepts or expose weaknesses very effectively. I
+might need to use other online judges/contest sites in the future, but for now,
+these two are serving me well.</p>
+
+<p>Solving problems alone isn’t enough to learn quickly so here are some other
+things I do too. I keep a journal of all the questions that I couldn’t solve by
+myself and try them again after at least a week. This is my primitive
+implementation of spaced repetition to truly make sure I take something away
+from each problem. The system is to keep doing that problem until breaking it
+apart and solving it becomes second nature. It’s also key to me that write down
+my thinking process and reflection of each attempt to quickly spot gaps. If I do
+encounter a new topic or find a weakness in my knowledge, that becomes my new
+area of focus.  This usually entails solving problems tagged with it on CF,
+reading articles, and watching videos until my mastery of that problem is good
+enough to move onto the next bracket.</p>
+
+<p>I just want to make it very clear that this is my training regiment for this
+moment in time, and it’ll probably change as I (hopefully) start climbing the
+ladder. Future changes and adaptations will be covered in a later blog though,
+so be sure to keep watch :D</p>
+
+<h3 id="links">Links</h3>
+<ul>
+  <li><a href="https://u.teknik.io/3yVBr.pdf">Book Guide by E869120</a></li>
+  <li><a href="https://github.com/bqi343/USACO/tree/master/Resources">BenQ Resources</a></li>
+</ul>
+
+<h2 id="the-end">The End</h2>
+<p>I just want to thank everyone that read this first post. I have no idea how you
+found it, and why’re you’re reading it (like seriously, why), but thanks :)!
+Come back next week where I’ll be writing about my first rated contest and tips
+for performing better during contests. Cheers!</p>
+:ET
