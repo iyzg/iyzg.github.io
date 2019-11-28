@@ -1,4 +1,4 @@
-I"�<h2 id="intro">Intro</h2>
+I"�<h2 id="intro">Intro</h2>
 <p>I know what you’re thinking, “What could a guy that has only done one contest
 possibly know about contest prep?” Although I may not have a lot of experience
 in CF contests, I have experience preparing for contests and high intensity
@@ -8,8 +8,8 @@ ado, here are my contest prep tips!</p>
 <h2 id="practice">Practice.</h2>
 <p>There’s no other prep that’s as effective as practice. A study conducted by a
 very prestigious resarcher <del>that 100% isn’t me</del> found that there’s a direct
-correlation between deliberate practice (post on that <a href="/blog/2019/11/10/the-start">here</a> c;) and rating. To prove that, I’ve included a very
-real, accurate graph to illustrate the relationship.</p>
+correlation between deliberate practice (post on that <a href="/blog/2019/11/10/the-start">here</a> c;) and rating. To prove that claim, I’ve included a
+very real, accurate graph to illustrate the relationship.</p>
 
 <p><img src="/assets/fake_graph.png" alt="Absolutely Real Graph" class="center-image" /></p>
 
@@ -38,13 +38,10 @@ abilities.</p>
 <h2 id="the-w-word">The W Word</h2>
 <p>Ok, ok… I’m done with the “X Word” headings now. As obvious as it might seem,
 being hydrated is essential to strong performance during contests and practice.
-It’s scientifically proven that when your brain is hydrated <strong>Do
-some research iinto how water affects performance</strong></p>
-
-<h2 id="the-ritual">The Ritual</h2>
-<p>Have you ever felt in ‘the zone’?</p>
-
-<h2 id="eat-a-banana">Eat A Banana</h2>
+It’s scientifically proven that a hydrated brain is able to “think faster, be
+more focused, and experience greater clarity and clarity”. I find that when
+you’re working on a problem that requires a lot of thinking, taking a quick
+break for water helps you refocus and refresh.</p>
 
 <h2 id="new-series">New Series!!</h2>
 <p>Before the end of the blog, I just wanted to announce an upcoming series I want
@@ -54,7 +51,9 @@ knowledge on more technical matters. Every 2/3 weeks, I’ll be writing about a
 topic that I’ve learned in that time period such as bitmasks or dp. These won’t
 be comprehensive, as I’m only a beginner myself, but hopefully the bite sized
 chunks of information along with my terrible comedy can help you guys learn
-something new too.</p>
+something new too. Since I’ll be concentrating most of technical knowledge in
+the Mini Lectures, the blog is going to be more of a weekly progress check and
+whatever topics interst me at the time.</p>
 
 <h2 id="conclusion">Conclusion</h2>
 <p>If you guys have any topics you’d like to see me write about, feel free to
@@ -63,5 +62,6 @@ something from this post to improve your contest prep and that you enjoyed the
 blog this week. Until next time!</p>
 
 <h2 id="sources">Sources</h2>
-<p><a href="https://www.health.harvard.edu/blog/regular-exercise-changes-brain-improve-memory-thinking-skills-201404097110">Harvard Exercise</a></p>
+<p><a href="https://www.health.harvard.edu/blog/regular-exercise-changes-brain-improve-memory-thinking-skills-201404097110">Harvard Exercise</a>
+<a href="https://shcs.ucdavis.edu/blog/archive/healthy-habits/your-brain-h2o">Dihydrogen Monoxide Article</a></p>
 :ET

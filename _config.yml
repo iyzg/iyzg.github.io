@@ -1,3 +1,6 @@
 name: ZLE
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+url: "https://iiplasma.github.io"
+plugins:
+  - jekyll-sitemap
