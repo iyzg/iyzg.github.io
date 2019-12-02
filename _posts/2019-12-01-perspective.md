@@ -41,24 +41,23 @@ spreadsheet and a deflated ego.
 Time and time again, I was getting slow solves on easy problems and failing to
 solve tougher problems. The reflections I wrote after each contest seemed to
 place my failure on just about every aspect of my abilities you could imagine,
-yet the underlying cause still eluded me [Maybe place some smart as if ]. That
-is until help came in the form of a CodeForces message. One of my readers who
-I'll call VwbJmvY (I've encrypted his name for privacy), reached out and said
-he'd be willing to help me on my quest to achieve world domination along with
-2000 CF in a year. It took him 10 minutes to figure out what I couldn't figure
-out in 5 days: I needed to slow down and work through problems before
-implementation. In retrospect, it seems glaringly obvious that attempting to
-think through the problem while implementing, for me personally, was leading
-to wrong ideas along with a lot of wasted time trying to implement those bad
-ideas; but without a second pair of eyes, I might never have found this error.
-I've learned it's really important to get help and a fresh perspective when
-you're stuck on a problem that you **really can't figure out.** Emphasis on the
-bold part of that sentence.  It's always important that you attempt to solve
-problems by yourself and only ask for help when you've truly ran out of ideas.
-Without investing the upfront cost of trying to solve the problem yourself, the
-return you get will be severly diminished. After this one simple change in how I
-approach problems during contests, my next virtual contest also became first postive
-delta.
+yet the underlying cause still eluded me. That is until help came in the form of
+a CodeForces message. One of my readers who I'll call VwbJmvY (I've encrypted
+his name for privacy), reached out and said he'd be willing to help me on my
+quest to achieve world domination along with 2000 CF in a year. It took him 10
+minutes to figure out what I couldn't figure out in 5 days: I needed to slow
+down and work through problems before implementation. In retrospect, it seems
+glaringly obvious that attempting to think through the problem while
+implementing, for me personally, was leading to wrong ideas along with a lot of
+wasted time trying to implement those bad ideas; but without a second pair of
+eyes, I might never have found this error.  I've learned it's really important
+to get help and a fresh perspective when you're stuck on a problem that you
+**really can't figure out.** Emphasis on the bold part of that sentence.  It's
+always important that you attempt to solve problems by yourself and only ask for
+help when you've truly ran out of ideas.  Without investing the upfront cost of
+trying to solve the problem yourself, the return you get will be severly
+diminished. After this one simple change in how I approach problems during
+contests, my next virtual contest also became first postive delta.
  
 ![No Longer All Red](/assets/first_green.png){: .center-image }
 
