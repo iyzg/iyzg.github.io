@@ -46,7 +46,7 @@ abilities.
 Ok, ok... I'm done with the "X Word" headings now. As obvious as it might seem,
 being hydrated is essential to strong performance during contests and practice.
 It's scientifically proven that a hydrated brain is able to "think faster, be
-more focused, and experience greater clarity and clarity". I find that when
+more focused, and experience greater clarity". I find that when
 you're working on a problem that requires a lot of thinking, taking a quick
 break for water helps you refocus and refresh. 
 
