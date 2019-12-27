@@ -47,4 +47,4 @@ which topics you struggle with the most, your weaknesses become clearer and help
 
 ## Outro
 I want to thank you guys for all the support I've gotten this year, and I can't wait for what next year brings. If you 
-have any suggestions for the blog/spreadsheet, I'm always open to ideas! Until next year, LGM Ivy signing off.
+have any suggestions for the blog/spreadsheet, I'm always open to ideas! Until next year, Fake LGM Ivy signing off.
