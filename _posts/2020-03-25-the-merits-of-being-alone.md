@@ -4,7 +4,7 @@ title: "The Merits of Being Alone"
 date: 2020-03-25
 ---
 
-## **Intro (Change later to something epic and quirky)**
+## Intro
 
 Distraction, the harbinger of frustration and bad performances; but also, a great segue into an idea I recently read about in "How To Be A High School Superstar" by Cal Newport. The idea he introduced was how studying is a lot like swimming in terms of technique triumphing over pure brute force. The beauty of this concept is that not only does it apply to swimming and studying, it also applies to competitive programming. Good technique would be keeping constraints in mind to see what runtime you need to meet and methodically dissecting a problem; whereas, bad technique is akin to me in real contests where I submit to the judge and pray I pass pretests. Sorry for the long queue times in the recent Div. 2s. But this also got me thinking, what's preventing people from always performing with "good technique"? This led me to two core ideas: anxiety and focus. This week I'll go over some tricks that have helped me with these two facets of my performance that you'll hopefully be able to apply too.
 
