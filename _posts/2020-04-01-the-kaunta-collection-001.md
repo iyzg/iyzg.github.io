@@ -19,8 +19,16 @@ Welcome to the Kaunta Collection! This is going to be a monthly series where I c
 
 <details>
     <summary>Hint 1</summary>
-    
+
     The only thing that matters about each string is the letter count parity.
+</details>
+
+<details>
+    <summary>Test</summary>
+
+    ```
+    this is code
+    ```
 </details>
 
 <details>
