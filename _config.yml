@@ -1,5 +1,8 @@
 name: ZLE
-markdown: kramdown
+markdown: CommonMarkGhPages
+commonmark:
+  options: ["SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table"]
 permalink: /blog/:year/:month/:day/:title
 url: "https://kauntaofficial.github.io"
 plugins:

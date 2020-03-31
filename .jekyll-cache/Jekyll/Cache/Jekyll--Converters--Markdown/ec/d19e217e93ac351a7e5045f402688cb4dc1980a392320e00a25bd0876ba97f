@@ -1,8 +1,7 @@
-I"�<h2 id="intro">Intro</h2>
+I"�<h2 id="intro">Intro</h2>
 <p>Hello everybody. I hope you all enjoyed a nice Thanksgiving this year and
 took advantage of your holiday break! This week I’ll be talking about
 reflection and how mindset affects performance.</p>
-
 <h2 id="the-limitations-of-reflection">The Limitations of Reflection</h2>
 <p>For anyone who’s been following my performance lately, it hasn’t been too hot.
 The problems I missed during the last contest were ones that were within my
@@ -13,25 +12,19 @@ But no, no, no, me from 4 days in the past decided that there was a better
 alternative to time off.  Instead, I’d do 1-2 Virtual Contests every day and
 figure out if it was truly nerves or bad luck causing poor performance. TL;DR
 No.</p>
-
 <h3 id="day-1">Day 1</h3>
 <p>So far, so good or at least no so bad. I only solved AB of a Div3 because I
 forgot to return 0 after printing a solution in C which led to 90 minutes of
 frustration. Estimated rating delta of -60, but it can only go up from here right?</p>
-
 <h3 id="day-2">Day 2</h3>
 <p>Hey lets go, only a -1 delta and this time I solved ABC so clearly without too
 much trouble. That <strong>MUST</strong> mean that the first virtual contest performance was
 just bad luck.</p>
-
-<h3 id="days-3-4--5">Days 3, 4, &amp; 5</h3>
+<h3 id="days-3-4-amp-5">Days 3, 4, &amp; 5</h3>
 <p>Someone please send help.</p>
-
 <p>At the end of the 5 days of contests, I had a wall of negative deltas in my
 spreadsheet and a deflated ego.</p>
-
-<p><img src="/assets/the_great_red_wall.png" alt="Great Wall of Red" class="center-image" /></p>
-
+<p><img src="/assets/the_great_red_wall.png" alt="Great Wall of Red" />{: .center-image }</p>
 <p>Time and time again, I was getting slow solves on easy problems and failing to
 solve tougher problems. The reflections I wrote after each contest seemed to
 place my failure on just about every aspect of my abilities you could imagine,
@@ -52,9 +45,7 @@ help when you’ve truly ran out of ideas.  Without investing the upfront cost o
 trying to solve the problem yourself, the return you get will be severly
 diminished. After this one simple change in how I approach problems during
 contests, my next virtual contest also became first postive delta.</p>
-
-<p><img src="/assets/first_green.png" alt="No Longer All Red" class="center-image" /></p>
-
+<p><img src="/assets/first_green.png" alt="No Longer All Red" />{: .center-image }</p>
 <h2 id="mindset-shift">Mindset Shift</h2>
 <p>My new mentor, VwbJmvY, has also helped me change the way I think during
 contests and my view on success. During the first two contests I partook in,
@@ -68,13 +59,11 @@ than earlier problems.  Seeing as we all have areas where we’re stronger in, t
 steady curve of difficulty won’t always hold true. Just taking a quick read of
 the next problem and realizing it’s easier for you could mean the difference
 between a positive and negative delta.</p>
-
 <h2 id="training-changes">Training Changes</h2>
 <p>As you might’ve noticed, I’ve switched to using Google Spreadsheets instead of a
 physical notebook. As beneficial as physically writing out reflections are,
 having it all online is insanely convenient and also helped me organize my
 practice. I’ll be doing a more in-depth coverage of this soon so stay tuned!</p>
-
 <h2 id="conclusion">Conclusion</h2>
 <p>Thanks again for reading! If you have any feedback on the more casual tone or
 anything about the blog, I’d love to hear it :) As always, I hope you guys
