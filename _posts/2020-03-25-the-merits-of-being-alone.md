@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Merits of Being Alone"
+title: "Tricks to Improving "
 date: 2020-03-25
 ---
 
@@ -12,9 +12,13 @@ Distraction, the harbinger of frustration and bad performances; but also, a grea
 
 There's no replacement for the good stuff. While the next few tips can help you focus better and relieve a bit of anxiety, experience is the ultimate anxiety killer. Do every contest you can even if you aren't super confident you'll get a positive delta.
 
+## Diversify
+
+If you're feeling a lot of pressure to perform in CF contests, try practicing and competing on other sites to alleviate the pressure of performing on CF. Although I got this trick from my mentor before the post went out, I didn't feel confident putting it in here without getting results first, so I decided to put it to practice before the next contest: [Codeforces Round #629 (Div 3)](https://codeforces.com/contest/1328). I spent the 2 days before the contest doing virtual contests and practice on AtCoder which really helped calm my nerves for the actual contest and ended up netting me a #329 place finish and +146.
+
 ## **Virtual Contests**
 
-Next up in line, the little brother to real contests: VCs. What better way to prepare for the real deal than by emulating the same conditions? For the more unfortunate of us who can't make a lot of real contests, VCs provide valuable practice for strategy, pacing, and experience for real contests. They're also a pretty streamlined way to expose yourself to a wide breadth of topics and ideas too for just general practice, so what are you waiting for? Get your paper and pencil out, your pants off, and your setup ready because it's time to compete.
+Speaking of virtual contests, the little brother to real contests: VCs. What better way to prepare for the real deal than by emulating the same conditions? For the more unfortunate of us who can't make a lot of real contests, VCs provide valuable practice for strategy, pacing, and experience for real contests. They're also a pretty streamlined way to expose yourself to a wide breadth of topics and ideas too for just general practice, so what are you waiting for? Get your paper and pencil out, your pants off, and your setup ready because it's time to compete.
 
 ## **Friends List**
 

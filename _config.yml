@@ -1,6 +1,6 @@
 name: ZLE
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-url: "https://iiplasma.github.io"
+url: "https://kauntaofficial.github.io"
 plugins:
   - jekyll-sitemap
