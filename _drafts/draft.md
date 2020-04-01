@@ -29,13 +29,13 @@ The only thing that matters about each string is the letter count parity.
 
 Once you notice that you really only care the parity of each letter count, it's an easy observation to see that a string can only make a palindrome with strings that have at most one differing parity. For example, aa and b (00 and 01) could combine but not aa and bc(000 and 011). So the question becomes, how can we efficiently count the number of valid pairs? To solve this question we're going to use an interesting 1-2 punch of common tricks. The first trick is hashing our string with powers of 2 to maintain a list in number form of all numbers that have an odd parity. (elaborate)
 
-{% highlight cpp %}
+```c++
 int key = 0;
 for (int i = 0; i < 26; i++) {
     // The + 0.5 is to make sure loss precision doesn't give us an answer one too low
     if (parities[i]) key += (pow(2, i) + 0.5); 
 }
-{% endhighlight %}
+```
 
 After that, we can use a map to count pairs and count how many strings differ to get our final solution. (elaborate)
 </details>
