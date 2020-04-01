@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Kaunta Collection - 001"
-date: 2020-03-31
+date: 2020-03-30
 ---
 
 ## Intro
@@ -59,7 +59,7 @@ https://codeforces.com/contest/1045/submission/67131577
 <details>
 <summary>Hint 1</summary>
 
-Is the preserving the current maximum in the array always the best solution?
+Is preserving the current maximum in the array always the best solution?
 
 </details>
 
