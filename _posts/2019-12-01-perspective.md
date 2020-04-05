@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Perspective"
+description: Weekly Recap of the not so hot practice I did over holiday and what lessons I took away from that experience.
 date: 2019-12-01
 ---
 
@@ -58,7 +59,7 @@ help when you've truly ran out of ideas.  Without investing the upfront cost of
 trying to solve the problem yourself, the return you get will be severly
 diminished. After this one simple change in how I approach problems during
 contests, my next virtual contest also became first postive delta.
- 
+
 ![No Longer All Red](/assets/first_green.png){: .center-image }
 
 ## Mindset Shift
@@ -68,7 +69,7 @@ rating was at the forefront of my mind. This led to a lot of rushed and half
 thought out attempts to try and submit as fast as possible. Not only did this
 serve me more penalties and WAs, the nervousness also rendered me incapable of
 working through the tougher problems. Combine these two factors together and you
-get a Plasma that is a complete and utter brick. Doing all these practice
+get a Kaunta that is a complete and utter brick. Doing all these practice
 contests also shattered my assumption that latter problems are always harder
 than earlier problems.  Seeing as we all have areas where we're stronger in, the
 steady curve of difficulty won't always hold true. Just taking a quick read of

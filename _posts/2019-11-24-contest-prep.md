@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Contest Prep"
+description: This week I cover some extra tips to help you perform well during CodeForces/AtCoder contests.
 date: 2019-11-24
 ---
 
@@ -13,7 +14,7 @@ ado, here are my contest prep tips!
 
 ## Practice.
 There's no other prep that's as effective as practice. A study conducted by a
-very prestigious resarcher ~~that 100% isn't me~~ found that there's a direct
+very prestigious researcher ~~that 100% isn't me~~ found that there's a direct
 correlation between deliberate practice (post on that [here]({% post_url
 2019-11-10-the-start%}) c;) and rating. To prove that claim, I've included a
 very real, accurate graph to illustrate the relationship.
@@ -37,7 +38,7 @@ quick to point out that Caruana is *only* #2 in the world. So if exercise gives
 such a huge boost to performance, why isn't he #1?  Because Magnus Carlsen (#1
 as of writing) also is a huge exercise proponent. He has said that staying in
 great shape through playing soccer and yoga is just as important as chess
-practice. The beauty of exercise is that you don't need to be a maraton runner
+practice. The beauty of exercise is that you don't need to be a marathon runner
 to reap the benefits! Even just 20 minutes a day of light exercise to work up a
 little sweat goes a long way towards improving your memory and thinking
 abilities. 
