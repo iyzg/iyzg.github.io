@@ -16,10 +16,6 @@ Why would I include this quote at the start of my blog? Now that I'm 5 months in
 
 >It does not matter how slow you go as long as you don't stop.  -Confucius
 
-
-
-
-
 The biggest lesson I've learned in these last 5 months, is that **nothing** worth having is ever fast or easy to attain. As a society, we've fallen in love with this idea of reaching the top at breakneck speeds and seeing success as something reserved for those who are willing to sacrifice everything and grind their days away. We point to examples like a startup that managed (insert startup that did well) while turning a blind eye to startups like Theranos whose downfall was because they scammed their investors to try and live up to that fast success idealization we've all come to expect. Just like everyone else around me, I bought into this idea and had a subsequent crash and burn when I failed to attain the quick rating goals I had set out for myself.
 
 (Extend)
