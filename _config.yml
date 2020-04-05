@@ -8,3 +8,4 @@ permalink: /blog/:year/:month/:day/:title
 url: "https://kauntaofficial.github.io"
 plugins:
   - jekyll-sitemap
+  - jekyll-seo-tag
