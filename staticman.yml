@@ -7,16 +7,16 @@ comments:
   #
   # Names of the fields the form is allowed to submit. If a field that is
   # not here is part of the request, an error will be thrown.
-  allowedFields: ["name", "email", "url", "message"]
+  allowedFields: ["name", "email", "url", "message", "replying_to_uid"]
 
   # (*) REQUIRED
   #
   # Name of the branch being used. Must match the one sent in the URL of the
   # request.
-  branch: "master"
+  branch: master
 
   # Text to use as the commit message or pull request title. Accepts placeholders.
-  commitMessage: "Add Staticman data"
+  commitMessage: "Comment from {fields.name} on {options.slug}"
 
   # (*) REQUIRED
   #
@@ -43,7 +43,7 @@ comments:
   moderation: true
 
   # Name of the site. Used in notification emails.
-  name: "eduardoboucas.com"
+  name: "ZLE"
 
   # Notification settings. When enabled, users can choose to receive notifications
   # via email when someone adds a reply or a new comment. This requires an account
@@ -69,9 +69,14 @@ comments:
 
   # Names of required fields. If any of these isn't in the request or is empty,
   # an error will be thrown.
-  requiredFields: ["name", "email", "message"]
+  requiredFields: ["name", "message"]
 
   # List of transformations to apply to any of the fields supplied. Keys are
   # the name of the field and values are possible transformation types.
   transforms:
     email: md5
+
+  reCaptcha:
+    enabled: false
+    siteKey: 6LcDXOcUAAAAABSt3DNczG10Yt2IT-Q6iaWqVnVj
+    secret: PHblwc0Zg3GAG8+zjSEKxMhe9m6mZbOhkNGiEnrpxq4ZxxS+EaveA79noHu0auwEC8t3zceW6Lb6psy0Nir1bdiOO8KoeNadqCp115L2CEcK88wOOlF9JJVoJETtXh6OjFfeJAySWpHlnXuQI+iZkHbvZmnttSbxEfEzQvWvnTfzIia4sPq1rg3rWlYa7f/nfGN7s8AQJ7rgUPRcrm+Fr8vJVI48eyVLOtQe+KWw5VuRX1BBsJfQNjBttpc9CXdhukrsMCxKdAF2B+qYrkFq//pUjmgc0xnO6FSnsbRdMzVWZbmmok7Lv4+z5igAiDkcDB7R0xj3GIXxAoDzpTYS9onqXJ1Ab8nMXLlGGqIW4uWXh17PCTfKlmvnQHB8BVpGRXFfKnmxbft39SZVusvZeLDYzftA/EvoyneeEh79sj26BFHjqTd58v5R8UJHvuMt2JRXADc3aHaa5rXQCJ7fRGQHDz3DbFlSdYlc1rx+QQyOCzZX7+lNV3qGlrf6d+rAxWPzQg/5MWFT8pkd07la2MEmajO3+1OcbYz7NVDZEt0whGTXYnMn0qt1qbcf1d+wp1ASuUlvJ+N4XQyGKmB7pPtqSD0xAw+/UuKvTHoCPtUu0EnU8gE+nVHKxieMsraQ17uc707Syv2Wm2P3HmRDOdERVMl2OMS2Xq2HTI7cVqw=

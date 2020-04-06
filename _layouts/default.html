@@ -27,6 +27,9 @@
 			{{ content }}
 			
 			</div><!-- /.container -->
+            {% if page.comments == true %}
+              {% include comments.html %}
+            {% endif %}
 			<footer>
 	    		<ul>
 	        		<li><a href="mailto:ZIvy042003@gmail.com">email</a></li>
