@@ -1,6 +1,7 @@
 name: ZLE
 markdown: CommonMarkGhPages
-highlighter: rogue
+highlighter: rouge
+theme: minima
 commonmark:
   options: ["SMART", "FOOTNOTES"]
   extensions: ["strikethrough", "autolink", "table"]
