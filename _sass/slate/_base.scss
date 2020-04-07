@@ -40,6 +40,11 @@ details {
     font-size: 1.2em;
 }
 
+details > p {
+    line-height: 1.2em;
+    font-size: 1em;
+}
+
 footer {
     border-top: 1px solid #d5d5d5;
     border-bottom: 1px solid #d5d5d5;
