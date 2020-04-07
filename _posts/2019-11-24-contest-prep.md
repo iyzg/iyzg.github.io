@@ -20,7 +20,7 @@ correlation between deliberate practice (post on that [here]({% post_url
 2019-11-10-the-start%}) c;) and rating. To prove that claim, I've included a
 very real, accurate graph to illustrate the relationship.
     
-![Absolutely Real Graph](/assets/fake_graph.png){: .center-image }
+![Absolutely Real Graph](/assets/fake_graph.png#center)
 
 All jokes aside, practice truly is the most important part of prep and comes before
 anything else here, but you didn't need me telling you that.

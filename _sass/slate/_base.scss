@@ -55,8 +55,7 @@ ul.posts li {
     list-style: none;
 }
 
-.center-image
-{
+img[src*="#center"] {
     margin: 0 auto;
     display: block;
 }
