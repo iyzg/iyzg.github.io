@@ -3,6 +3,7 @@ layout: post
 title: "Perspective"
 description: Weekly Recap of the not so hot practice I did over holiday and what lessons I took away from that experience.
 date: 2019-12-01
+comments: true
 ---
 
 ## Intro

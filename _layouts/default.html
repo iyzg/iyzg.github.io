@@ -2,41 +2,34 @@
 	<html lang="en">
 		<head>
 			<title>{{ page.title }}</title>
-            <!-- Fonts -->
-            <style>
-                @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-                @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
-            </style> 
-			<!-- link to main stylesheet -->
+			<!-- Styles -->
+			<!--
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
-            <link rel="stylesheet" type="text/css" href="/css/style.css">
+-->
+
+            <link rel="stylesheet" href="/assets/css/main.css">
+
+            <!-- <link rel="stylesheet" type="text/css" href="/css/style.css"> -->
+
+			<!-- SEO Stuffs -->
             <meta name="viewport" content="width=device-width, initial-scale=1">
             {% seo %}
         </head>
 		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-					<!-- <li><a href="/about">About</a></li> -->
-					<!-- <li><a href="/cv">CV</a></li> -->
-	        		<li><a href="/blog">Blog</a></li>
-	    		</ul>
-			</nav>
+			{% include header.html %}
+			<!-- /.container -->
 			<div class="container">
 			
 			{{ content }}
 			
-			</div><!-- /.container -->
-            {% if page.comments == true %}
-              {% include comments.html %}
-            {% endif %}
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:ZIvy042003@gmail.com">email</a></li>
-	        		<li><a href="https://github.com/KauntaOfficial">github</a></li>
-                    <li><a href="https://codeforces.com/profile/iiPlasma">codeforces</a></li>
-				</ul>
-			</footer>
+			</div>
+			
+			{% include footer.html %}
+
+			{% if page.comments == true %}
+			{% include comments.html %}
+			{% endif %}
+
             {% include analytics.html %}
 		</body>
 	</html>

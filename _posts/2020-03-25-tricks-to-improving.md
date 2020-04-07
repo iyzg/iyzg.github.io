@@ -3,6 +3,7 @@ layout: post
 title: "Tricks to Improving"
 description: Some tried and tested tips on how to perform better during CodeForce contests.
 date: 2020-03-25
+comments: true
 ---
 
 ## Intro

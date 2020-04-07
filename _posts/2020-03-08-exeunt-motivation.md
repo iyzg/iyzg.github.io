@@ -3,6 +3,7 @@ layout: post
 title: "Exeunt Motivation"
 description: Explaining my 2 month break from competitive programming and how I was able to bounce back.
 date: 2020-03-08
+comments: true
 ---
 
 ## Here We Go Again

@@ -3,6 +3,7 @@ layout: post
 title: "Contest Prep"
 description: This week I cover some extra tips to help you perform well during CodeForces/AtCoder contests.
 date: 2019-11-24
+comments: true
 ---
 
 ## Intro
