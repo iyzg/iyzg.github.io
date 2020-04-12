@@ -65,6 +65,13 @@ img[src*="#center"] {
     display: block;
 }
 
+// Image Captions
+img + em {
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+
 blockquote {
     margin: 0;
     margin-top: 0;
