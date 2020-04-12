@@ -34,7 +34,7 @@ It's a common adage that you should only try to beat you from yesterday, but it'
 
 ## Outro
 
-I know I don't have the most inspiring rating graph. I was pretty much plateaued at ~1450 for 3 months, but hopefully I'm an inspiration that you can break whatever rating ceiling you're struggling with now.  I'd love to hear your thoughts in the comment section below about whether or not you agree that mentality plays a huge role in your rating. I'm off to celebrate my birthday tomorrow with my first official unrated contest, so here's to another 5 months of CP and weirdly scheduled posts. Thanks for reading.
+I was pretty much plateaued at ~1450 for 3 months, but hopefully I'm an inspiration that you can break whatever rating ceiling you're struggling with now.  I'd love to hear your thoughts in the comment section below about whether or not you agree that mentality plays a huge role in your rating. I'm off to celebrate my birthday tomorrow with my first official unrated contest, so here's to another 5 months of CP and weirdly scheduled posts! Thanks for reading.
 
 
 
