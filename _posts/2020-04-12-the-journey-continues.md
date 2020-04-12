@@ -14,6 +14,8 @@ Now that I'm 5 months into this challenge and I've hit my first milestone of Exp
 
 I always see questions like "How many problems do you need to get to x rating?" or "How much do you need to practice everyday?", so I've decided to link some of my stats here for those interested in what I did to reach Expert.
 
+![Kaunta's Codeforces rating graph](/assets/04-12-2020/rating.png)
+
 ![Problems Solved by Kaunta organized by rating](/assets/04-12-2020/solved.png#center)
 
 ![Problems Solved by Kaunta organized by date](/assets/04-12-2020/hist.png#center)
