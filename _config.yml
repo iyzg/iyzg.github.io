@@ -10,11 +10,9 @@ reCaptcha:
   siteKey: 6LcDXOcUAAAAABSt3DNczG10Yt2IT-Q6iaWqVnVj
   secret: PHblwc0Zg3GAG8+zjSEKxMhe9m6mZbOhkNGiEnrpxq4ZxxS+EaveA79noHu0auwEC8t3zceW6Lb6psy0Nir1bdiOO8KoeNadqCp115L2CEcK88wOOlF9JJVoJETtXh6OjFfeJAySWpHlnXuQI+iZkHbvZmnttSbxEfEzQvWvnTfzIia4sPq1rg3rWlYa7f/nfGN7s8AQJ7rgUPRcrm+Fr8vJVI48eyVLOtQe+KWw5VuRX1BBsJfQNjBttpc9CXdhukrsMCxKdAF2B+qYrkFq//pUjmgc0xnO6FSnsbRdMzVWZbmmok7Lv4+z5igAiDkcDB7R0xj3GIXxAoDzpTYS9onqXJ1Ab8nMXLlGGqIW4uWXh17PCTfKlmvnQHB8BVpGRXFfKnmxbft39SZVusvZeLDYzftA/EvoyneeEh79sj26BFHjqTd58v5R8UJHvuMt2JRXADc3aHaa5rXQCJ7fRGQHDz3DbFlSdYlc1rx+QQyOCzZX7+lNV3qGlrf6d+rAxWPzQg/5MWFT8pkd07la2MEmajO3+1OcbYz7NVDZEt0whGTXYnMn0qt1qbcf1d+wp1ASuUlvJ+N4XQyGKmB7pPtqSD0xAw+/UuKvTHoCPtUu0EnU8gE+nVHKxieMsraQ17uc707Syv2Wm2P3HmRDOdERVMl2OMS2Xq2HTI7cVqw=
 
-permalink: /blog/:year/:month/:day/:title
+  permalink: /blog/:year/:month/:day/:title
 url: "https://kauntaofficial.github.io"
 plugins:
-  - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-seo-tag
-whitelist:
-  - jekyll-redirect-from
+
