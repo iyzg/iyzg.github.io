@@ -2,7 +2,7 @@
 layout: post
 title: "The Journey Continues"
 date: 2020-04-12
-description: This week, I talk about some the mentality aspect of performing well in competitive programming contests.
+description: This week, I talk about some of the mentality aspects of performing well in competitive programming contests.
 comments: true
 ---
 
@@ -12,7 +12,7 @@ Now that I'm 5 months into this challenge and I've hit my first milestone of Exp
 
 ## Stats
 
-I always see questions like "How many problems do you need to get to x rating?" or "How much do you need to practice everyday?", so I've decided to link some of my stats here for those interested on what I did to reach Expert.
+I always see questions like "How many problems do you need to get to x rating?" or "How much do you need to practice everyday?", so I've decided to link some of my stats here for those interested in what I did to reach Expert.
 
 ![Problems Solved by Kaunta organized by rating](/assets/04-12-2020/solved.png#center)
 
@@ -28,11 +28,11 @@ The biggest lesson I've learned in these last 5 months is that **nothing** worth
 
 > I am not in competition with anyone by myself. My goal is to improve myself continuously. -Bill Gates
 
-It's a common adage that you should only try and beat the you from yesterday, but it's a lot easier said than done. All the friends I've made had been doing CP for far longer, so of course I couldn't match their performance instantly. My mentor made USACO Plat in one season; I didn't. When you're surrounded by people better than you, it's tough not to use them as a point of reference for your own progress. I'm not arguing against being around strong competitors as it's always a sure-fire way to improve and learn at a faster pace, but comparing yourself to them can manifest into a very unhealthy mindset. For everyone out there also struggling with this and feeling like this is one of their biggest roadblocks, like it was for me, my advice is just to focus on the problems. Don't look at standings. Don't worry at speed. Devote all of your attention to whatever problem you're on and don't let that waver. I'd say that fixing my mentality during contests has been the sole reason to my +250 rating over the past 4 contests. If you have trouble keeping focus during contest and not stressing during contests, your practice won't matter much, as you'll be completely out of form. Although you can try using a placebo effect through doing virtual contests and 2 hour practice sessions, the best fix to this is doing every real contest you can fit into your schedule.
+It's a common adage that you should only try to beat you from yesterday, but it's a lot easier said than done. All the friends I've made had been doing CP for far longer, so of course I couldn't match their performance instantly. My mentor made USACO Plat in one season; I didn't. When you're surrounded by people better than you, it's tough not to use them as a point of reference for your own progress. I'm not arguing against being around strong competitors as it's always a sure-fire way to improve and learn at a faster pace, but comparing yourself to them can manifest into a very unhealthy mindset. For everyone out there also struggling with this and feeling like this is one of their biggest roadblocks, like it was for me, my advice is just to focus on the problems. Don't look at standings. Don't worry at speed. Devote all of your attention to whatever problem you're on and don't let that waver. I'd say that fixing my mentality during contests has been the sole reason for my +250 rating over the past 4 contests. If you have problems with focus and stress, your practice won't matter much, as you'll be completely out of form. Although you can try using a placebo effect through doing virtual contests and 2 hour practice sessions, the best fix to this is doing every real contest you can fit into your schedule.
 
 ## Outro
 
-I know I don't have the most inspiring rating graph. I was pretty much plateaued at ~1450 for 3 months, but hopefully I'm inspiration that you can break whatever rating ceiling you're struggling with now.  I'd love to hear your thoughts in the comment section below about whether or not you agree that mentality plays a huge role in your rating. I'm off to celebrate my birthday tomorrow with my first official unrated contest, so here's to another 5 months of CP and weirdly scheduled posts. Thanks for reading.
+I know I don't have the most inspiring rating graph. I was pretty much plateaued at ~1450 for 3 months, but hopefully I'm an inspiration that you can break whatever rating ceiling you're struggling with now.  I'd love to hear your thoughts in the comment section below about whether or not you agree that mentality plays a huge role in your rating. I'm off to celebrate my birthday tomorrow with my first official unrated contest, so here's to another 5 months of CP and weirdly scheduled posts. Thanks for reading.
 
 
 
