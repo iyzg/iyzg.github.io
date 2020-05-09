@@ -1,5 +1,5 @@
 ---
-title: A Tale of 2 CP Types (Top 16 Finish @ MIT Battlehack 2020)
+title: A Tale of 2 CP Types (Top 3 Finish @ MIT Battlehack 2020)
 comments: true
 ---
 
