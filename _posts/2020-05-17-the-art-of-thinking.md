@@ -6,7 +6,7 @@ description: Talks about the thinking aspect of competitive programming that goe
 comments: true
 ---
 
-I had been sitting in front of my laptop for over 30 minutes with absolutely no progress. I was stuck. Not the kind of stuck where all lines of thinking prove fruitless or being stuck simply from a lack of effort, I was stuck because I didn't know where to put my effort. The notes I had written weren't pieces of a puzzle that would lead to an elegant solution; but rather, an incoherent jumble of ideas whose only destination was nowhere. I didn't know how to think.
+I had been sitting in front of my laptop for over 30 minutes with absolutely no progress. Not the kind of stuck where all lines of thinking prove fruitless or being stuck simply from a lack of effort, I was stuck because I didn't know where to put my effort. The notes I had written weren't pieces of a puzzle that would lead to an elegant solution; but rather, an incoherent jumble of ideas whose only destination was nowhere. I didn't know how to think.
 
 ## Structure
 
@@ -20,11 +20,11 @@ Although none of these steps are revolutionary or mind boggling independently, t
 
 ### Step 1 Problems
 
-Being stuck in Step 1 comes down to two causes: lack of knowledge or "looping". If you simply didn't know an algorithm or data structure needed to solve the problem, a Google search and some practice is enough to fix that up. "Looping" is as the name suggests, continuing to review the variables you have without posing further questions to make progress. Because it's human nature to take the path of least resistance, you have to be on constant watch to make sure you aren't looping. 
+Being stuck in Step 1 comes down to two causes: lack of knowledge or "looping". If you simply didn't know an algorithm or data structure needed to solve the problem, a Google search and some practice is enough to fix that up. "Looping" is as the name suggests, continuing to review the variables you have without asking further questions to make progress. Because it's human nature to take the path of least resistance, you have to be on constant watch to make sure you aren't looping. 
 
 ### Step 2 Problems
 
-Observations are important for a reason, they answer a question the problem poses. To not find the underlying question or be able to find the subsequent observation needed classifies as a missed observation. It's important to understand the logic behind the observation/problem and tie it back to your thinking, so it becomes a new tool in your repertoire. To find the question but answer it incorrectly reclassifies your mistake as a misevaluation. These are often small logic errors, like thinking you can't precompute when the constraints are small enough, which make them easy to fix with a simple note to not make that same mistake in the future. Speaking of notes... 
+Observations are important for a reason, they answer a question the problem poses. To not find the underlying question or be able to find the subsequent observation needed classifies as a missed observation. It's important in these cases to truly understand the logic behind the observation/problem and tie it back to your thinking, so it becomes a new tool in your repertoire and not just a one-off technique. To find the question but answer it incorrectly reclassifies your mistake as a misevaluation. These are often small logic errors, like thinking you can't precompute when the constraints are small enough, which make them easy to fix with a simple note to not make that same mistake in the future. Speaking of notes... 
 
 ## Notes
 
