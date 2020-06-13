@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Metrics of Success"
-description: Pros and cons of different metrics of success within competitive programming.
+description: Pros and cons of different metrics of improvement within competitive programming.
 date: 2020-06-13
 comments: true
 ---
