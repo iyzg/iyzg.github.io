@@ -3,6 +3,7 @@ layout: post
 title: "Perspective"
 description: Weekly Recap of the not so hot practice I did over holiday and what lessons I took away from that experience.
 date: 2019-12-01
+permalink: perspective
 ---
 
 ## Intro
@@ -37,7 +38,7 @@ Someone please send help.
 At the end of the 5 days of contests, I had a wall of negative deltas in my
 spreadsheet and a deflated ego.
 
-![Great Wall of Red](/assets/the_great_red_wall.png#center)
+![Great Wall of Red](/assets/the_great_red_wall.png){: .center-image }
 
 Time and time again, I was getting slow solves on easy problems and failing to
 solve tougher problems. The reflections I wrote after each contest seemed to

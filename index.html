@@ -1,10 +1,34 @@
 ---
 layout: default
-title: Ivy Z
-description: Home page of ZLE, the blog where I talk about competitive programming advice and my road to a 2000 rating on Codeforces
+title: Home
 ---
-<div class="blurb">
-	<h1>Hi there, I'm Ivy Z!</h1>
-	<p>I'm the high school junior currently doing the Year to 2000 CodeForces Challenge! This is where I post weekly recaps on my progress along with educational blogs for competitive programming. <a href="/blog">Read more about it here...</a></p>
-</div><!-- /.blurb -->
 
+<div class="posts">
+  {% for post in paginator.posts %}
+  <article class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url | relative_url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+
+    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+
+    {{ post.content }}
+    {% include discord_plug.html %}
+  </article>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ paginator.next_page_path | relative_url }}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: relative_url }}">Newer</a>
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>

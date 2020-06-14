@@ -3,6 +3,7 @@ layout: post
 title: "The Kaunta Collection - 002"
 description: The second collection of quality problems from CodeForces and AtCoder that help teach you common motifs within competitive programming.
 date: 2020-05-01
+permalink: the-kaunta-collection-002
 ---
 
 ## Intro
@@ -17,15 +18,11 @@ Welcome to the second installment of the Kaunta Collection! If you're new to the
 
 ## Ehab The Exorcist
 
-<details>
-<summary>Hint 1</summary>
+### Hint 1
 
 What's the upper bound on the number of elements you need in the array, and when would the input be invalid?
 
-</details>
-
-<details>
-<summary>Editorial</summary>
+### Editorial
 
 First off, let's determine when the base case for when the input is invalid. If U > V, it's invalid because to get a xor of U, the sum must 
 be at least equal to U. There is one other special case for when U = V that you only need 1 number to satisfy both conditions. 
@@ -36,26 +33,15 @@ is to see how we could optimize this to pass tests like Sample Case 1 where you 
 two numbers share no common bits, you can combine U and one (V - U) / 2 into one element to keep the same sum and use the second (V - U) / 2 to return the 
 xor to U.
 
-</details>
-
-<details>
-<summary>My Solution</summary>
-
-https://codeforces.com/contest/1325/submission/75616773
-
-</details>
+[Solution](https://codeforces.com/contest/1325/submission/75616773)
 
 ## Flatten
 
-<details>
-<summary>Hint 1</summary>
+### Hint 1
 
 Since the LCM is too large to store in a long long, store it as an array.
 
-</details>
-
-<details>
-<summary>Editorial</summary>
+### Editorial
 
 The LCM is way too large to be stored in any form of integer, so we can instead store it as an array of its prime factors.
 You can then recreate the LCM % 1e9 + 7 by going through each factor with:
@@ -73,27 +59,15 @@ for (auto& i : factorCnt) {
 Since you're looking for the sum of each `LCM / a[i]`, you can modular inverse each element to convert it to 1/a[i] % MOD then multiply
 by LCM to get the final answer.
 
-
-</details>
-
-<details>
-<summary>My Solution</summary>
-
-https://atcoder.jp/contests/abc152/submissions/11765236
-
-</details>
+[Solution](https://atcoder.jp/contests/abc152/submissions/11765236)
 
 ## Multiple of 2019
 
-<details>
-<summary>Hint 1</summary>
+### Hint 1
 
 Try representing the number by each digit.
 
-</details>
-
-<details>
-<summary>Editorial</summary>
+### Editorial
 
 The first thing you want to do is reverse the string which makes it so your number is now `S[0]*10^0+S[1]*10^1` and so on.
 Now we can take prefix sums:
@@ -124,14 +98,8 @@ you're simply counting for pairs again, so you can use the same map trick found 
 
 (Thanks to summitwei for helping me solve this problem <3)
 
-</details>
+[Solution](https://atcoder.jp/contests/abc164/submissions/12497180)
 
-<details>
-<summary>My Solution</summary>
-
-https://atcoder.jp/contests/abc164/submissions/12497180
-
-</details>
 
 ## Outro
 

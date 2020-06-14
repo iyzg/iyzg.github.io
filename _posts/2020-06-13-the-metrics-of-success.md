@@ -3,6 +3,7 @@ layout: post
 title: "The Metrics of Success"
 description: Pros and cons of different metrics of improvement within competitive programming.
 date: 2020-06-13
+permalink: the-metrics-of-success
 ---
 
 ## The Metrics of Success 
@@ -72,7 +73,4 @@ rushing to an editorial.
 I'm sure that the metric I use is far from perfect, but it's good enough. The
 point of introducing these performance measurements isn't to chase perfection,
 but to find a way to motivate yourself to practice while continuously improving.
-If you have some other technique or variation of these three, I'd love to hear
-about it in the comments below, and as always, thanks for reading. (If you enjoy
-my blog and would like to get notified of future posts, you can join [here](https://discord.gg/KuQ89ks))
-
+As always, thanks for reading.

@@ -3,6 +3,7 @@ layout: post
 title: "Contest Prep"
 description: This week I cover some extra tips to help you perform well during CodeForces/AtCoder contests.
 date: 2019-11-24
+permalink: contest-prep
 ---
 
 ## Intro
@@ -19,7 +20,7 @@ correlation between deliberate practice (post on that [here]({% post_url
 2019-11-10-the-start%}) c;) and rating. To prove that claim, I've included a
 very real, accurate graph to illustrate the relationship.
     
-![Absolutely Real Graph](/assets/fake_graph.png#center)
+![Absolutely Real Graph](/assets/fake_graph.png){: .center-image }
 
 All jokes aside, practice truly is the most important part of prep and comes before
 anything else here, but you didn't need me telling you that.
@@ -70,5 +71,5 @@ something from this post to improve your contest prep and that you enjoyed the
 blog this week. Until next time!
 
 ## Sources
-[Harvard Exercise](https://www.health.harvard.edu/blog/regular-exercise-changes-brain-improve-memory-thinking-skills-201404097110)
-[Dihydrogen Monoxide Article](https://shcs.ucdavis.edu/blog/archive/healthy-habits/your-brain-h2o)
+- [Harvard Exercise](https://www.health.harvard.edu/blog/regular-exercise-changes-brain-improve-memory-thinking-skills-201404097110)
+- [Dihydrogen Monoxide Article](https://shcs.ucdavis.edu/blog/archive/healthy-habits/your-brain-h2o)
