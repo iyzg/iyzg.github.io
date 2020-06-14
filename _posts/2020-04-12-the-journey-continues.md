@@ -4,6 +4,7 @@ title: "The Journey Continues"
 date: 2020-04-12
 description: This week, I talk about some of the mentality aspects of performing well in competitive programming contests.
 permalink: the-journey-continues
+redirect_from: "/2020/04/12/the-journey-continues.html"
 ---
 
 ## Intro

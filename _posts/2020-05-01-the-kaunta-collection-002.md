@@ -4,6 +4,7 @@ title: "The Kaunta Collection - 002"
 description: The second collection of quality problems from CodeForces and AtCoder that help teach you common motifs within competitive programming.
 date: 2020-05-01
 permalink: the-kaunta-collection-002
+redirect_from: "/2020/05/01/the-kaunta-collection-002.html"
 ---
 
 ## Intro

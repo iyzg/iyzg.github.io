@@ -4,6 +4,7 @@ title: "The Art of Thinking"
 date: 2020-05-17
 description: Talks about the thinking aspect of competitive programming that goes beyond knowing algorithms and data structures.
 permalink: the-art-of-thinking
+redirect_from: "/2020/05/17/the-art-of-thinking.html"
 ---
 
 I had been sitting in front of my laptop for over 30 minutes with absolutely no

@@ -3,6 +3,8 @@ layout: post
 title: "Magic Spreadsheet"
 description: Kaunta's training spreadsheet and tips on how to use it effectively in your CP journey.
 date: 2019-12-26
+permalink: magic-spreadsheet
+redirect_from: "/blog/2019/12/26/magic-spreadsheet"
 ---
 
 ## TL;DR

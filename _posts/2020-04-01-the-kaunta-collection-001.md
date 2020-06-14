@@ -4,6 +4,7 @@ title: "The Kaunta Collection - 001"
 description: The first collection of quality problems from CodeForces and AtCoder that help teach common motifs within competitive programming.
 date: 2020-04-01
 permalink: the-kaunta-collection-001
+redirect_from: "/blog/2020/04/01/the-kaunta-collection-001"
 ---
 
 ## Intro

@@ -4,6 +4,7 @@ title: "Tricks to Improving"
 description: Some tried and tested tips on how to perform better during CodeForce contests.
 date: 2020-03-25
 permalink: tricks-to-improving
+redirect_from: "/blog/2020/03/25/the-merits-of-being-alone"
 ---
 
 ## Intro

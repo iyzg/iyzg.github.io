@@ -4,6 +4,7 @@ title: "The Metrics of Success"
 description: Pros and cons of different metrics of improvement within competitive programming.
 date: 2020-06-13
 permalink: the-metrics-of-success
+redirect_from: "/2020/06/13/the-metrics-of-success.html"
 ---
 
 ## The Metrics of Success 

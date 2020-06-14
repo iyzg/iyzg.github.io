@@ -4,6 +4,7 @@ title: "Exeunt Motivation"
 description: Explaining my 2 month break from competitive programming and how I was able to bounce back.
 date: 2020-03-08
 permalink: exeunt-motivation
+redirect_from: "/blog/2020/03/08/exeunt-motivation"
 ---
 
 ## Here We Go Again
