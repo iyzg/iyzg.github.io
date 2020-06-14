@@ -3,7 +3,6 @@ layout: post
 title: "The Kaunta Collection - 002"
 description: The second collection of quality problems from CodeForces and AtCoder that help teach you common motifs within competitive programming.
 date: 2020-05-01
-comments: true
 ---
 
 ## Intro

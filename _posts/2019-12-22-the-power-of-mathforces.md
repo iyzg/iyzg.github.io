@@ -3,7 +3,6 @@ layout: post
 title: "The Power of MathForces"
 description: Why MathForces is one of the most important aspects of competitive programming training and my experience joining this hallowed cult.
 date: 2019-12-22
-comments: true
 ---
 
 ## Intro

@@ -3,7 +3,6 @@ layout: post
 title: "The Journey Continues"
 date: 2020-04-12
 description: This week, I talk about some of the mentality aspects of performing well in competitive programming contests.
-comments: true
 ---
 
 ## Intro

@@ -3,7 +3,6 @@ layout: post
 title: "The Art of Thinking"
 date: 2020-05-17
 description: Talks about the thinking aspect of competitive programming that goes beyond knowing algorithms and data structures.
-comments: true
 ---
 
 I had been sitting in front of my laptop for over 30 minutes with absolutely no progress. Not the kind of stuck where all lines of thinking prove fruitless or being stuck simply from a lack of effort, I was stuck because I didn't know where to put my effort. The notes I had written weren't pieces of a puzzle that would lead to an elegant solution; but rather, an incoherent jumble of ideas whose only destination was nowhere. I didn't know how to think.

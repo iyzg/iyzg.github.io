@@ -3,7 +3,6 @@ layout: post
 title: "The Metrics of Success"
 description: Pros and cons of different metrics of improvement within competitive programming.
 date: 2020-06-13
-comments: true
 ---
 
 ## The Metrics of Success 
@@ -23,7 +22,9 @@ oriented or math-heavy. With such a large assortment of independent variables,
 it's impossible to get an accurate, holistic reflection of your skills and
 growth. On top of it all, focusing on the result rather than the process means
 if your rating experiences a plateau or slump, your motivation will follow suit.
-Pros: None.
+Pros: None. (Disclaimer: I'm not upset about my own rating or against the entire
+system, I just don't believe it's a good way to track your own improvement on a
+day to day scale.)
 
 ## Problems Solved
 
