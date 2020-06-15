@@ -95,7 +95,7 @@ Since 10 has no common factors with 2019, `ps[r] - ps[l - 1]` is a multiple of 2
 `(S[l] * 10^0 + S[l + 1] * 10^1 ... + S[r] * 10^(r - l)` is a multiple of 2019. Since the prefix sum is the prefix % 2019, 
 you're essentially looking for `ps[r] - ps[l - 1] = 0` so the remainders cancel out. This is equal to `ps[r] = ps[l - 1]` where
 you're simply counting for pairs again, so you can use the same map trick found in the Palindrome Pairs problem from 
-[Kaunta Collection 001](https://kauntaofficial.github.io/2020/04/01/the-kaunta-collection-001.html).
+[Kaunta Collection 001]({% post_url 2020-04-01-the-kaunta-collection-001 %}).
 
 (Thanks to summitwei for helping me solve this problem <3)
 
