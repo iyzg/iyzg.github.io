@@ -6,7 +6,14 @@ date: 2020-06-14
 permalink: lecture-001-z-algorithm
 ---
 
-## What is it?  
+## Preface
+
+These "lectures" are mostly to help myself understand concepts in depth since
+the best way to learn something is to teach it to others. To try and make these
+concepts as intuitive as possible, I've taught this to multiple people
+beforehand to refine my explanations. Hope you enjoy.
+
+## What is Z-Algorithm?  
 
 Z-Algorithm takes a string $$s$$ of length $$n$$ and returns an array where each
 $$z[i]$$ is the length of the longest common prefix between $$s$$ and the suffix
@@ -99,9 +106,28 @@ vector<int> z_algo(string s) {
 }
 ```
 
+When the current index is within the bounds of the rightmost segment, we can
+use our previous computations to go as far as we possibly can. If we go past the
+right boundary, we resort back to the trivial algorithm to check each character
+and then update the rightmost segment as needed.
+
+### Runtime
+
+The for loop clearly runs in $$O(n)$$ time and besides the inner while loop, all
+other operations run in constant time.
+
+For the while loop to run, it means that the current segment goes beyond the
+current boundary. This can only happen a max of (n
+
 ## Applications
 
 
 ## Problems
-[Who Says a Pun?](https://atcoder.jp/contests/abc141/tasks/abc141_e)
-[Password](https://codeforces.com/problemset/problem/126/B)
+- [Who Says a Pun?](https://atcoder.jp/contests/abc141/tasks/abc141_e)
+- [Password](https://codeforces.com/problemset/problem/126/B)
+
+## Sources
+- [CP-Algorithms](https://cp-algorithms.com/string/z-function.html)
+
+## Special Thanks (Unfortunate Test Subjects)
+
