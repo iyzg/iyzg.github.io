@@ -9,11 +9,11 @@ permalink: lecture-001-z-algorithm
 ## Preface
 
 These "lectures" are mostly to help myself understand concepts in depth since
-the best way to learn something is to teach it to others. To try and make these
-concepts as intuitive as possible, I've taught this to multiple people
-beforehand to refine my explanations. Hope you enjoy.
+the best way to learn something is to teach it to others. Before posting this,
+I've taught the concepts to multiple people to refine my explanations. Hope you
+enjoy.
 
-## What is Z-Algorithm?  
+## What does Z-Algorithm do?
 
 Z-Algorithm takes a string $$s$$ of length $$n$$ and returns an array where each
 $$z[i]$$ is the length of the longest common prefix between $$s$$ and the suffix
@@ -25,9 +25,9 @@ so we'll just set it to 0.
 ## Examples
 ### TODO: Change the examples to something other than the cp-algo ones
 
-- aaaaa -> [0, 4, 3, 2, 1]
-- aabaab -> [0, 2, 1, 0, 2, 1, 0]
-- abacaba -> [0, 0, 1, 0, 3, 0, 1]
+- aaaaa $$\to$$ [0, 4, 3, 2, 1]
+- aabaab $$\to$$ [0, 2, 1, 0, 2, 1, 0]
+- abacaba $$\to$$ [0, 0, 1, 0, 3, 0, 1]
 
 
 ## Trivial Algo
@@ -64,7 +64,7 @@ the letters pass the boundary continue to match.
 
 When $$i <= r$$, we'll use our stored right segment to speed up the
 calculations. Since the rightmost segment we've stored $$s[l, r]$$ and 
-$$s[0, r - l]$$ match, we know that $$s[i]$$ is the same letter as $$s[i - l]$$.
+$$s[0, r - l]$$ match, we know that $$s[i, r]$$ is identical to $$s[i - l, r - l]$$.
 We've already calculated the score for $$i - l$$ so we can initialize $$z[i]$$
 to $$z[i - l]$$.
 
@@ -106,20 +106,32 @@ vector<int> z_algo(string s) {
 }
 ```
 
-When the current index is within the bounds of the rightmost segment, we can
-use our previous computations to go as far as we possibly can. If we go past the
-right boundary, we resort back to the trivial algorithm to check each character
-and then update the rightmost segment as needed.
+We initialize the righstmost segment to be $$[0, 0]$$ to not interfere with any
+$$i$$. When the current index is within the bounds of the rightmost segment, we
+can use our previous computations to go as far as we possibly can. If we go past
+the right boundary, we resort back to the trivial algorithm to check each
+character and then update the rightmost segment as needed.
 
 ### Runtime
 
-The for loop clearly runs in $$O(n)$$ time and besides the inner while loop, all
-other operations run in constant time.
-
-For the while loop to run, it means that the current segment goes beyond the
-current boundary. This can only happen a max of (n
+The for loop runs in $$O(n)$$ and everything inside runs within constant time
+except for the while loop. The inner while loop only runs when you're past the
+current boundary which is initialized to 0, so it can only run at most n - 1
+iterations.
 
 ## Applications
+### Find All Occurrences
+
+One application for the algorithm is to find all occurences of a string $$p$$
+with length $$m$$ in string $$t$$. To do this, we'll create a new string like
+so,
+
+$$
+s = p + ♥ + t
+$$
+
+Once we get the resulting array, the number of occurrences is equal to the
+number of indecies where $$z[i] = m$$
 
 
 ## Problems
@@ -128,6 +140,7 @@ current boundary. This can only happen a max of (n
 
 ## Sources
 - [CP-Algorithms](https://cp-algorithms.com/string/z-function.html)
+- [Z Algorithm by Palandin8](https://codeforces.com/blog/entry/3107?)
 
 ## Special Thanks (Unfortunate Test Subjects)
 
