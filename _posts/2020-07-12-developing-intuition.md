@@ -3,7 +3,6 @@ layout: post
 title: Developing Intuition
 description: How to develop intuition in competitive programming through deliberate practice.
 date: 2020-07-11
-mathjax: true
 permalink: developing-intuition
 ---
 
