@@ -145,6 +145,12 @@ abbr[title] {
   border-bottom: 1px dotted #e5e5e5;
 }
 
+/* Footnote */
+div.footnotes {
+  font-size: 16px;
+}
+
+
 /* Code */
 code,
 pre {
