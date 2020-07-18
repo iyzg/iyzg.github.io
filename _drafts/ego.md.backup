@@ -15,7 +15,7 @@ It really is that simple. As you're going through a problem[^1], just note every
 Now that we've got this exclusive director's cut footage, it's time to hit the review room. I recommend just noting the general content (missed the possibility of $$ O(2^n) $$ brute force) and cause (didn't pay attention to constraints) of each mistake, but you can always go more in depth as necessary. This process of finding the root of each mistake acts as a catalyst for transitioning the knowledge from simply being known to understood and finding faults in your thinking process. If your hands aren't tired from all the writing yet, I'd suggest also writing down each mistake and cause. This not only helps you remember each mistake better, acts as a checklist for future problems, but also saps you of the power needed to click away from this post.
 
 ## Size Doesn't Matter
-Although this post is short, it's short by design. Keeping the system as simple as possible not only makes it efficient but also eliminates any excuses for not following through on a daily basis. I hope you can utilize this to upgrade your training, and also that this post about practice won't get ~~rightfully~~ called out again by um_nik in the comment section. Thanks for reading.
+Although this post is short, it's short by design. Keeping the system as simple as possible not only makes it efficient but also eliminates any excuses for not following through on a daily basis. Hopefully you can apply something similar to your own training  and enjoyed reading. 
 
 #### Semi-Extraneous Footnotes
 
