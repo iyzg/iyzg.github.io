@@ -13,7 +13,7 @@ Prerequisite: A text editor setup for your chosen language.
 Text editors don't matter for all I care, you could use Notepad++ and still do
 great.  Language choice is usually between Java and C++ (or Python if you're
 masochistic), but it's generally recommended to use C++ for faster, shorter
-code. Now let's get on with the show
+code. Now let's get on with the show[^1]
 
 ## Intro
 
@@ -67,7 +67,17 @@ people far more accomplished than me practice, so here's just a general
 consensus. Generally there's an arbitrary time limit (usually 30m) after you run
 out of ideas is when you should check the editorial. (make point about how even
 people who say they check editorial quickly STILL assimilate the knowledge
-painstakingly)
+painstakingly) Everyone (including me) is just going to sell you whatever method
+worked for THEM, which is 100% not some universal way to practice. Use whatever
+online judge you want, practice how long you want, use editorials if you want.
+The **ONLY** universal rule is that if it isn't working, figure out why and
+change something.
+
+> LInk um_nik photo TODO Caption: as I learned
+
+You might be thinking, well this is the most useless guide I've ever read. Fair.
+If you do feel as if my nebulous advice is more <something> than liberating,
+feel free to take a look at this, or this, or this.
 
 ## Find A Friend
 
@@ -102,3 +112,5 @@ errictho,  algorithms live & dead,
 ## Websites
 cp algo
 edu on CF 
+
+[^1] Please don't use repl.it, that's the one exception.
