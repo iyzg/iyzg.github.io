@@ -11,8 +11,8 @@ section
 
 Welcome to the Kaunta Collection! If you're new to the series, the Kaunta
 Collection is a monthly compilation of the most interesting problems I've solved
-within that timeframe along with hints and my own editorial for each. (Maybe
-leave thing here about sharing if they like instead of at the bottom).
+within that timeframe along with hints and my own editorial for each. (TODO:
+Maybe leave thing here about sharing if they like instead of at the bottom).
 
 ## Problem List
 
@@ -26,8 +26,6 @@ leave thing here about sharing if they like instead of at the bottom).
 God knows
 
 ### Editorial
-
-TODO: Fancy mathjax stuff
 
 Note: My solution uses policy-based data structures, you can find an alternative
 without [here](https://codeforces.com/blog/entry/79517).
@@ -75,7 +73,7 @@ two expected values, even if they're dependent of each other, are just the sum:
 $$ E[x]+ E[y] = E[x + y]$$
 
 This means that the answer will be the probability a pair will be beautiful
-multiplied by m - 1, so we'll just find the 2 cases 
+multiplied by m - 1, so we'll just find the 2 different cases:
 
 1. When $ d = 0 $, the only valid pairs of (a, b) are when $ a = b $, so the
 probability is $$ \frac{n}{n^2} $$.
@@ -93,7 +91,7 @@ What's the smallest possible triple?
 
 ### Editorial
 
-The first important thing to simplify this problem is that instead of
+The first important idea to simplify this problem is that instead of
 considering the GCD of $ a_i $ and the sum of all other elements, we can instead
 consider $ GCD(S, a_i) $ since 
 
@@ -103,12 +101,12 @@ With such tight constraints on our options, it makes sense to take both 2 and 3
 since they ensure the overall GCD is 1 while also providing small factors for
 the other elements to satisfy. The [official
 editorial](https://img.atcoder.jp/agc022/editorial.pdf) uses a solution with
-just multiples of 2 & 3, but we'll take a different approach here.  With our set
-{2, 3}, the smallest number to complete the triple is 25. Now the smallest
+just multiples of 2 & 3, but I'll introduce a different approach here.  With our
+set {2, 3}, the smallest number to complete the triple is 25. Now the smallest
 factors we need in all elements are any of {2, 3, 5} while maintaining a sum
 which is a multiple of $ 2 * 3 * 5 = 30 $. A simple way to do this is by adding
-pairs which sum to 30,000 and have one of the valid factors. If N is even, we
-can fill out the array by adding 15,000.
+pairs which sum to 30,000 and both numbers have one of the valid factors. If N
+is even, we can fill out the array by adding 15,000.
 
 ### Solution
 [My Solution](https://atcoder.jp/contests/agc022/submissions/15494432)
