@@ -1,4 +1,4 @@
----
+--
 layout: post
 title: The Kaunta Collection 003
 description: How to develop intuition in competitive programming through deliberate practice.
@@ -6,13 +6,9 @@ date: 2020-07-23
 permalink: the-kaunta-collection-003
 ---
 
-TODO: Rewrite all solutions to be clearer and have more comments explaining each
-section
-
 Welcome to the Kaunta Collection! If you're new to the series, the Kaunta
 Collection is a monthly compilation of the most interesting problems I've solved
-within that timeframe along with hints and my own editorial for each. (TODO:
-Maybe leave thing here about sharing if they like instead of at the bottom).
+within that timeframe along with hints and my own editorial for each. 
 
 ## Problem List
 
