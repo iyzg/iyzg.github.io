@@ -1,38 +1,67 @@
-Want to get help on problems, but don't have any high rated friends? Don't want to pay for a CP mentor? I've got just the solution for you.
+---
+layout: post
+title: "Shitpost"
+description: Shit. Maybe throw in keywords tho
+date: 2020-08-06
+permalink: ultimate-shitpost
+---
 
 
+Want to get help on problems but don't have any high rated friends? Does paying for a CP mentor seem completely ridiculous? I've got just the solution for you[^1].
+ 
 ## Integrity
-As with any sort of scientific experiment, it's important to ensure our results are as accurate as possible. To simulate the success of someone in a lower rating range, I've created an unrated alt account to show how these methods work even for the lowest rated people. For a random sample size of Grandmasters, we've selected 3 randomly generated from the pool of active competitors on Codeforces who I have 0 personal ties to as the testing group.
+To demonstrate the effectiveness of the techniques, I've taken the following measures to ensure the conditions are as close to what you might experience in real life usage.
+
+1. To simulate the success of someone in a lower rating range, I've created an unrated alt account[^2] that has no ties with my original account. 
+2. For a random sample of GMs, I've randomly generated 3 names from the pool of active competitors on Codeforces, who I have 0 personal ties to. 
+
+(TODO: Maybe include some plot drama to try and add some actual character arc) (TODO: Decide whether I use we or I) We also use transcriptions of the chats for readability but include screenshots as proof these are not just fabricated texts.
 
 ## Technique #1 - Death by Words (DW)
 While GMs might intimidate you with their large rating, you can parry with an equally large vocabulary. Taking inspiration from peacocks, we'll artificially boost our "plumage" of knowledge to try and get the GM to respond. When writing any message to a GM, just throw it in this [text converter](https://honk.moe/tools/verysmart.html) to instantly boost your chances at getting a response. I will note that most people in the community see DW as an extremely risky technique, but when it works, it works wonders.
 
-[picture]{center}
+![Sorry Colin](/assets/sorrycolin.png){: .center-image }
 
 ### Meta Analysis
 
-I've gone with a stock standard greeting followed by the classic, "long time no see, bro". This is essential to try and establish a line of connection between us instantly before he realizes what's being done. It's also key to note how I have multiple compilation errors to try and evoke sympathy from our unsuspecting Grandmaster. I've included another bonus tip in the submission on how to optimize your code, but for now we'll move onto his response.
+I've gone with a stock standard greeting followed by the classic, "long time no see, bro". This is essential to try and establish a line of connection between us instantly before he realizes what's being done. Although not shown in the screenshot, I've also submitted multiple compilation errors, not because I can't program, I swear, but to garner sympathy. I've included another bonus tip in the submission on how to optimize your code, but for now we'll move onto his response. (repetitive I've)
 
-Mr. Colin here must think he's quite clever now that he's outwitted us by asking where the submission is, but we aren't out of tricks yet. I've purposely left no response as an exercise for you to complete.
-
+Mr. Colin here must think he's quite clever now that he's outwitted us by asking where the submission is, but we aren't out of tricks yet. If you don't succeed, try, try again. (shitty)
 
 ## Technique #2 - Write a Blog (WB)
-Although this technique is lengthy and requires far greater amounts of work than the previous methods, it's also the most risk averse. You start a blog series on, I don't know, maybe some "Road to Reach xxxx" to lure GMs in like flies to honey. Once they leave a comment, you can quickly slide in their DMs with a "would you be willing to help" or something along the lines of what I show below. 
+Although this technique is lengthy and requires far greater amounts of work than the most methods, it's also the most risk averse. You start a blog series on, I don't know, maybe some "Road to Reach xxxx" to lure GMs in like flies to honey. Once they leave a comment, you can quickly slide in their DMs with a "would you be willing to help" or something along the lines of what I show below. 
+
+![Sorry Summit](/assets/sorrysummit.png){: .center-image }
 
 ### Meta Analysis
-I don't have any blog posts on this account, but luckily summit wasn't too observant. No promises you'll get as lucky as me. We're mixing it up from Technique 1 and starting off with a Sir instead of a Mr, nice bit of alliteration. For this example, I'm employed the famous "karangreat" Gambit. Because writing a blog is such a safe method to attracting Grandmasters, I wanted to spice it up and increase the risk levels by going for a gambit.
+I don't have any blog posts on this account, but luckily Summitwei wasn't too observant. We're mixing it up from Technique 1 and starting off with a Sir instead of a Mr for a nice bit of alliteration, but this isn't required for success. For this example, I'm employed the famous Karangreat Gambit: asking directly for help during live contests. Most people follow the Modernist school of philosophy that the gambit is unsound for modern day play, but I use it here to highlight some lesser known techniques and to spice up the usual boring exchanges that come from the WB opening. But with any chess, I mean GMM, opening, it's important to look at the opponent's response, so let's move onto that now.
 
-These GMs are proving to be tough nuts to crack as we got another nonresponse. The key thing to note is that Summit never explicitly says no, which signals that he would like to discuss the specifics such as monetary payment and payment options on another platform. I usually use Telegram along with Nord VPN for ultimate security, but I'll leave it at your discretion. Which means it's time to segue into our next technique.
+Once again with Summit we see a nonanswer quite similar to Colin's in content or rather lack thereof. The key thing to note is that Summit never explicitly says no, which is a clear signal that he would like to discuss the specifics such as monetary payment and payment options on another platform where direct messages are truly private. Common recommendations for further exchanges are Telegram with Bitcoin as currency, but you can use whatever you fancy. Speaking of chatting platforms, let's move onto our 3rd technique.
 
 ## Technique #3 - Sow Discord (SD)
-Start accussing them of using illicit drugs such as caffiene or heroin to try and blackmail them into complying. This is definitely high up on the spectrum for risk, but sometimes it's a risk you must take.
+Start accusing them of using illicit drugs such as caffiene or heroin to blackmail them into complying. Much like this paragraph, it has to be abrupt so the recipient doesn't have time to rationally address our wild accusations. [^3] This is definitely high up on the spectrum for risk, but sometimes it's a risk you must take. Using Discord as your chat service isn't a requirement, but public servers provide much lower acquisition cost per GM compared to less commonly used tools like WhatsApp and Email. (Plus it makes a great pun). Much like the followup 
+
+### Meta Analysis
+Following proper technique as shown earlier, I also include an extra flair in alluding to a "CodeForces EULA Section 5.4-23". This is utter nonsense but the extra touch of authority could be the edge needed to coerce the GM to comply with our extravagant requests. The rest of the message follows the template as seen in Technique 1 and Technique 2, so I won't elaborate here. (TODO: Link to those headings)
+
+He must cave for the character arc
 
 
 ## Recap
-Really the most important thing to take away from this blog is that persistence is key.
+We get 2 non-commital answers at first, still a step up from the solid No or nonresponse commonly received, but we finally succeed on getting a Yes at the end. character arc
 
-[^1] Disclaimer: Please do not try this at home. This was performed on a closed course with trained professionals. Side effects include mild nausea, severe backlash, and a possible one way ticket to downvote hell.
 
+## FAQ
+
+1. Will Grandmasters actually be my friend using these techniques?
+> No promises, but we all know you're just looking for a "one time stand" if you're messaging Grandmasters to begin with.
+
+2. Is this rated?
+> Uh, how do I even answer this?
+
+[^1]: Disclaimer: Do not try this at home. This was performed on a closed course with trained professionals. Side effects include mild nausea, severe backlash, and a possible one way ticket to downvote purgatory. I'm not liable for any damages caused by/to you due to you following this advice.
+[^2]: I know that making alt accounts is against CodeForces rules, but seeing as it was in the name of education, we sincerely hope Mike shall allow an exception without banishing me from the face of the Earth. Then again, there are accounts like [kaunta_oRZ](https://codeforces.com/profile/kaunta_orz) which simultaneously break the alt account rule and the "Do not use harsh, rude or **misleading** handle." guideline, so there remains hope yet.
+[^3]: This seems like a good time to acknowledge that you won't be making "friends" in the classic sense of the word whether or not you succeed, but let's be honest with each other, you just wanted someone to explain editorials to begin with, so this fact seems negligible.
 
 
 
