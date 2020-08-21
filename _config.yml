@@ -1,5 +1,6 @@
 # Setup
 title: ZLE
+description: Log of my adventures as I try and get 2000 on Codeforces within a year.
 tagline: Year to 2000
 url: https://kauntaofficial.github.io
 paginate: 1
@@ -8,6 +9,7 @@ permalink: pretty
 
 # Gems
 plugins:
+  - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
   - jekyll-seo-tag

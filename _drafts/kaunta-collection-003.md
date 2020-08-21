@@ -12,46 +12,32 @@ within that timeframe along with hints and my own editorial for each.
 
 ## Problem List
 
-- [Reading Books (Hard Version)](https://codeforces.com/contest/1374/problem/E2)
+- [Knapsack for All Subsets](https://atcoder.jp/contests/abc169/tasks/abc169_f)
 - [Ordinary  Beauty](https://atcoder.jp/contests/soundhound2018-summer-qual/tasks/soundhound2018_summer_qual_c)
 - [GCD Sequence](https://atcoder.jp/contests/agc022/tasks/agc022_b)
 
-## Reading Books (Hard Version)
+## Knapsack for All Subsets
 
 ### Hint 1
-God knows
+
+How much does a valid subset with length k contribute to the answer, what about
+a subset with k + 1?
 
 ### Editorial
 
-Note: My solution uses policy-based data structures, you can find an alternative
-without [here](https://codeforces.com/blog/entry/79517).
+Using the knowledge that each subset contributes 2^(n - k) to the answer, we
+could store a 2d map of sum and size, but this runs in $ O(n^3) $ which is
+clearly too slow. We can't get rid of looping through all elements or the sum,
+so we'll have to find a way to get rid of size.
+Let's start with the naive version where we have a 3d $ dp[index][sum][size] $
+and fill it accordingly. Clearly $ O(n^3) $ will timeout, so we need to find a
+way to get rid of one of the dimensions. Index and sum are nonnegotiable, so we
+need to find a way to get rid of size. Each time you extend the length of a
+sequence, the contribution goes from 2^(n - k) to 2^(n - (k + 1)), which is / 2.
 
-Let's classify books into 4 categories: ($$A$$) Alice likes, ($$B$$) Bob likes,
-($$C$$) both like, and ($$D$$) neither likes. If $$A + C < k$$, $$A + D < k$$,
-or the minimum number of books required to satisfy $$k$$ for both Alice and Bob
-is greater than $$m$$, it's impossible. To find the best combination of books,
-we'll loop through the number of books taken from C starting with the maximum
-possible and maintain an ordered multiset of the books not taken along with the
-sum for both groups. Each time we decrement C, we'll increase the required sum
-by the next two smallest books in A and B while subtracting C[ci]? Make this
-bsetter. Using our ordered set, we're able to quickly check if either of the
-AB books taken were already and simulate removing them and calculating the new
-sum. There's a few cases we have to be careful of here:
+### Solution
 
-- If both books were already being taken, add the (extraTaken - 1)th book to
-  satisfy the m condition once more
-- If the next smallest books in A & B are the same number, you have to add 1 to
-  the index of b to make sure it was actually being taken beforehand.
-- If the book we're removing from C is within the first extraTaken books, add
-  that to the sum and remove the (extraTaken - 1)th book
-(Go into greater depth)
-
-Now that you have the optimal C, you can just greedily take to satisfy the k and
-m constraints for the optimal answer.
-
-## Solution
-
-[My Solution](https://codeforces.com/contest/1374/submission/85556592)
+[My Solution](https://atcoder.jp/contests/abc169/submissions/16012612)
 
 ## Ordinary Beauty
 
