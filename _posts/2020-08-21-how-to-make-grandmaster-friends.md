@@ -2,7 +2,7 @@
 layout: post
 title: "How To Make Grandmaster Friends (2020 Edition)"
 description: How to make Grandmaster friends in any field with 3 simple tricks. Results not guaranteed.
-date: 2020-08-06
+date: 2020-08-21
 permalink: how-to-make-grandmaster-friends
 ---
 
