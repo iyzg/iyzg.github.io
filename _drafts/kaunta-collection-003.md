@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Kaunta Collection 003
-description: A deep dive into how to think about and solve interesting competitive programming problems.
+description: A deep dive on how to think about and solve interesting competitive programming problems.
 date: 2020-07-23
 permalink: the-kaunta-collection-003
 ---
@@ -38,13 +38,13 @@ A naive solution could use a 2d map with [subset sum][subset size] and update it
 while iterating through the array.  Unfortunately, this has a runtime of $
 O(n^3) $ which is far too slow.
 
-We need to iterate through the array and know the sum of a subset, so we have to
-get rid of the [subset size] dimension. To go from a subset of length $ k $ to
-length $ k + 1 $, the contribution of the subset goes from $ 2^{(n - k)} $ to $
-2^{(n - k - 1)} $ or simply put - dividing by 2. This observation allows us to
-get rid of the size dimension since the transition from any sum $ S_1 \to S_2 $
-is simply just / 2.  With a runtime now of $ O(n^2) $, the solution runs well
-under TL.
+Iterating through the array and the sum of a subset are nonnegotiable, so we
+have to get rid of the [subset size] dimension. To go from a subset of length $
+k $ to length $ k + 1 $, the contribution of the subset goes from $ 2^{(n - k)}
+$ to $ 2^{(n - (k + 1))} $ or simply put - you divide by 2. This observation
+allows us to get rid of the size dimension since the transition from any sum $
+S_1 \to S_2 $ is simply just / 2.  Now with a runtime of $ O(n^2) $, the
+solution runs well under TL.
 
 ### Solution
 
@@ -58,16 +58,16 @@ Linearity of Expectation
 
 ### Editorial
 
-Since beauty is determined by adjacent indecies, let's just focus on the $ m - 1 $ 
-adjacent pairs. Although the probability that a pair is beautiful is dependent
-on adjacent pairs, linearity of expectation states that the sum of two expected
-values, even if dependent on each other, is simply the sum:
+Since beauty is determined by pairs of adjacent indecies, let's just focus on
+the $ m - 1 $ adjacent pairs. Although the probability that a pair is beautiful
+is dependent on adjacent pairs, linearity of expectation states that the sum of
+two expected values, even if dependent on each other, is simply the sum:
 
 $$ E[x]+ E[y] = E[x + y] $$
 
 This means that the answer will be the probability a pair will be beautiful
-multiplied by m - 1, so we'll just find the 2 different cases of what the beauty
-could be:
+multiplied by $ m - 1 $, so we'll just find the 2 different cases of what the
+beauty could be:
 
 1. When $ d = 0 $, the only valid pairs of (a, b) are when $ a = b $, so the
 probability is $$ \frac{n}{n^2} $$.
@@ -87,25 +87,28 @@ What's the smallest possible triple?
 
 ### Editorial
 
-The first important idea to simplify this problem is that instead of
-considering the GCD of $ a_i $ and the sum of all other elements, we can instead
+The first important idea to simplify this problem is that instead of considering
+the GCD of $ a_i $ and the sum of all other elements $ (S) $, we can instead
 consider $ GCD(S, a_i) $ since 
 
-$$ GCD(S, a_i) = GCD(s - ai, ai) $$
+$$ GCD(S, a_i) = GCD(S - a_i, a_i) $$
 
 With such tight constraints on our options, it makes sense to take both 2 and 3
 since they ensure the overall GCD is 1 while also providing small factors for
-the other elements to satisfy. The [official
-editorial](https://img.atcoder.jp/agc022/editorial.pdf){: target="_blank" } uses
-a solution with just multiples of 2 & 3, but I'll introduce a different approach
-here.  
+the other elements to satisfy. From here there are two main paths you could
+take:
+
+1. Only take multiples of 2 & 3, which you can find an explanation for [here in
+   the official editorial.](https://img.atcoder.jp/agc022/editorial.pdf){: target="_blank" }
+2. Find the smallest number to complete the triple which is the approach I
+   explain here.
 
 With our set {2, 3}, the smallest number to complete the triple is 25. Now the
 smallest factors we need in all elements are any of {2, 3, 5} while maintaining
-a sum which is a multiple of $ 2 * 3 * 5 = 30 $. A simple implementation is by
+a sum which is a multiple of $ 2 * 3 * 5 = 30 $. A simple implementation is
 adding pairs which sum to 30,000 where both numbers have one of the valid
-factors. The initial triple and pairs satisfies all odd N, and adding any unused
-multiple of 30 satisfies all even N.
+factors. The initial triple and added pairs satisfies all odd N, and adding any
+unused multiple of 30 satisfies all even N.
 
 ### Solution
 [My Solution](https://atcoder.jp/contests/agc022/submissions/15494432){:
