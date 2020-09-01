@@ -26,7 +26,7 @@ With $ 2^n $ subsets, it's clearly too large to consider every subset individual
 
 A naive solution could use a 2d array for [subset sum][subset size] and update it while iterating through the array.  Unfortunately, this has a runtime of $O(n^3) $ which is far too slow.
 
-Iterating through the array and the sum of a subset are nonnegotiable, so we have to get rid of the [subset size] dimension. Luckily for us, going from a subset of length $ k $ to length $ k + 1 $, the contribution of the subset goes from $ 2^{(n - k)} $ to $ 2^{(n - (k + 1))} $ or simply put - you divide by 2, no matter the $ k $. This observation allows us to get rid of the size dimension since the transition between sums would simply be $ S[i + a_j] $ += $ S[i]/ 2 $.  Now with a runtime of $ O(n^2) $, the solution runs well under TL.
+Iterating through the array and the sum of a subset are nonnegotiable, so we have to get rid of the [subset size] dimension. Luckily for us, going from a subset of length $ k $ to length $ k + 1 $, the contribution of the subset goes from $ 2^{(n - k)} $ to $ 2^{(n - (k + 1))} $ or simply put, you divide by 2. This observation allows us to get rid of the size dimension since the transition between sums would simply be $ S[i + a_j] $ += $ S[i]/ 2 $.  Now with a runtime of $ O(n^2) $, the solution runs well under TL.
 
 [My Solution](https://atcoder.jp/contests/abc169/submissions/16012612){: target="_blank" }
 
