@@ -62,7 +62,7 @@ The first important idea to simplify this problem is that instead of considering
 
 $$ GCD(S, a_i) = GCD(S - a_i, a_i) $$
 
-With such tight constraints, it makes sense to take both 2 and 3 since they ensure the overall GCD is 1 while also providing small factors for the other elements to satisfy. From here there are two main paths you could take:
+With such tight constraints on our options, it makes sense to take both 2 and 3 since they ensure the overall GCD is 1 while also providing small factors for the other elements to satisfy. From here there are two main paths you could take:
 
 1. Only take multiples of 2 & 3, which you can find an explanation for [here in the official editorial.](https://img.atcoder.jp/agc022/editorial.pdf){: target="_blank" }
 2. Find the smallest number to complete the triple, which is the approach I explain here.
