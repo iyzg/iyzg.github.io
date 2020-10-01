@@ -1,0 +1,7 @@
+## The Silver Bullet
+
+Let's start this off with a fun little exercise, take a minute or two to think about the largest factors holding you back from whatever rating you want to achieve. Maybe you're too slow, don't solve Bs consistently, or don't practice enough. Whatever it is, flip it on its head. You aren't too slow, you aren't slow enough.
+
+These challenges and deficiencies we perceive as obstacles, an unfortunate hardship we have to suffer while we try and get from point A to point B. The natural result of this kind of thinking is to look for a silver bullet, some magical tunnel through the mountain or a road around. I'm here to tell you there is no road around because those challenges are the road.
+
+The reason you can't solve Bs consistently is that you haven't failed enough. You don't practice enough because you haven't tried enough. Especially when it comes to practice there always seem to be people looking for the optimal way to practice that guarantees success without hardship. __It doesn't exist.__ The way to better practice isn't magic, it's trying out different strategies, getting called out by um_nik because your idea is complete garbage, and learning through failure. (2nd step is optional)
